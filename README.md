@@ -8,7 +8,8 @@
 
 
 
-#解析示例
+# 解析示例
+
 		（1）对TCP协议解析foo.lua
 
 		（2）对HTTP协议解析form_urlencoded.lua:
@@ -20,5 +21,6 @@
 			Form item: "account" = "bob"
 			Form item: "total_fee" = "100.01"
 
-#参考资料
+# 参考资料
+
 		https://blog.csdn.net/jasonhwang/article/details/5525700 
