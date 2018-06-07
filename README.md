@@ -17,7 +17,7 @@
 	用Wireshark抓包查看HTTP POST消息，Content-Type为application/x-www-form-urlencoded。解析post请求：
 	curl http://172.18.169.15:8888/hello -d 'account=bob&total_fee=100.01' -v
 	
-	![image](https://github.com/cherishman2005/wireshark-lua/tree/master/screenshots/1.png)
+![post body解析截图](https://github.com/cherishman2005/wireshark-lua/tree/master/screenshots/1.png)
 	
 
 	HTML Form URL Encoded: application/x-www-form-urlencoded
